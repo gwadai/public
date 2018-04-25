@@ -435,7 +435,8 @@ body {
 }
 
 .vscode-body hr {
-    height: 0.25em;
+    /* height: 0.25em; */
+    height: 2px;
     padding: 0;
     margin: 24px 0;
     background-color: #e1e4e8;
@@ -514,7 +515,7 @@ body {
 .vscode-body h1 {
     padding-bottom: 0.3em;
     font-size: 2em;
-    border-bottom: 1px solid #eaecef;
+    border-bottom: 1px solid #eaecef;    
 }
 
 .vscode-body h2 {
@@ -623,9 +624,9 @@ body {
     padding-bottom: 0.2em;
     margin: 0;
     font-size: 85%;
-    background-color: rgba(27, 31, 35, 0.05);
+    background-color: #e8f2fc;
 	border-radius: 3px;
-	border: 1px solid rgba(27, 31, 35, 0.5);
+	border: 1px solid #9fcefd;
 }
 
 .vscode-body code::before,
@@ -724,4 +725,20 @@ body {
 
 .vscode-body hr {
     border-bottom-color: #eee;
+}
+
+/* 覆寫 */
+.vscode-body pre{
+    background-color: #e8f2fc !important;
+}
+.vscode-body h1 {
+    margin-top: 1.3em;
+}
+.vscode-body h2 {
+    margin-top: 1.1em;
+}
+.vscode-body pre code{
+    background-color: transparent !important;
+    border: none !important;
+    padding: 0 !important;
 }
