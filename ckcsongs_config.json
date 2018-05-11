@@ -1,7 +1,7 @@
 {
 	"forceClearCookie" : false,
 	"noBottomSheet" : false,
-	"bottomSheetTitle" : "新增線上鋼琴",
+	"bottomSheetTitle" : "線上鋼琴",
 	"bottomSheetBody" : "為增加方便性，已加入線上鋼琴連結。若有需要，請按右上方功能表開啟。",
 	"checkText" : "我知道了，以後不用再通知我。"
 }
