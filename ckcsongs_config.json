@@ -1,4 +1,4 @@
 {
 	"forceClearCookie" : false,
-	"noBottomSheet" : false
+	"noBottomSheet" : true
 }
