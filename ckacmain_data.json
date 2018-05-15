@@ -1,0 +1,154 @@
+{
+	"docgroup": [
+		{
+			"label": "團務／演出文件",
+			"icon": "fa-link",
+			"titleColor": "docs",
+			"links": [
+				{
+					"url": "http://bit.ly/ckacmain",
+					"label": "CKAC 主網站",
+					"note": "本網站",
+					"manager": "劉政儒"
+				},
+				{
+					"url": "http://bit.ly/ckaclog",
+					"label": "CKAC 練唱日誌",
+					"note": "PDF／Dropbox 資料夾",
+					"manager": "熊宜平"
+				},
+				{
+					"url": "http://bit.ly/ckac-midi",
+					"label": "空中練唱教室",
+					"note": "分部 Midi 與範唱／Dropbox 資料夾",
+					"manager": "邱紹玲"
+				},
+				{
+					"url": "http://bit.ly/ckacnote2017",
+					"label": "歌曲解說",
+					"note": "Dropbox 資料夾",
+					"manager": "謝玲"
+				},
+				{
+					"url": "http://bit.ly/ckacresume",
+					"label": "CKAC 簡介及演出記錄",
+					"note": "Google 文件",
+					"manager": "熊宜平"
+				},
+				{
+					"url": "http://bit.ly/ckacrule",
+					"label": "CKAC 組織章程",
+					"note": "PDF",
+					"manager": "熊宜平"
+				}
+			]
+		},
+		{
+			"label": "臉書連結（一般）",
+			"icon": "fa-facebook-official",
+			"titleColor": "fb",
+			"links": [
+				{
+					"url": "http://bit.ly/ckacfb",
+					"label": "CKAC 吃喝玩樂分享抬槓話匣子",
+					"note": "所有團員"
+				},
+				{
+					"url": "http://bit.ly/ckacfb-fans",
+					"label": "成大合唱團校友 CKAC 粉絲團",
+					"note": "對外"
+				},
+				{
+					"url": "http://bit.ly/ckacfb-core",
+					"label": "CKAC 管家園地",
+					"note": "幹部專用"
+				}
+			]
+		},
+		{
+			"label": "臉書連結（分部）",
+			"icon": "fa-facebook-official",
+			"titleColor": "fb",
+			"links": [
+				{
+					"url": "http://bit.ly/ckacfb-sop",
+					"label": "Soprano",
+					"note": "CKAC-SOP"
+				},
+				{
+					"url": "http://bit.ly/ckacfb-alto",
+					"label": "Alto",
+					"note": "CKAC_ALTO"
+				},
+				{
+					"url": "http://bit.ly/ckacfb-tenor",
+					"label": "Tenor",
+					"note": "CKAC Tenors"
+				},
+				{
+					"url": "http://bit.ly/ckacfb-bass",
+					"label": "Bass",
+					"note": "成大校友合唱團 BASS 園地"
+				}
+			]
+		}
+	],
+	"performances": [
+		{
+			"id": "p2017",
+			"title": "音樂聚",
+			"subTitle": "成大校友合唱團 2017 年度音樂會",
+			"url": "https://youtu.be/DgRKpWmvqI0",
+			"img": "ckac2017.jpg",
+			"type": "YouTube",
+			"teams": "成大校友合唱團",
+			"time": "2017/07/09",
+			"place": "東吳大學松怡廳",
+			"conductor": "戴怡音",
+			"piano": "丁肇恩",
+			"director": "林中光"
+		},
+		{
+			"id": "p2016",
+			"title": "成音飄揚六十載",
+			"subTitle": "2016 成大合唱團六十周年團慶音樂會",
+			"url": "http://bit.ly/ckc-60",
+			"img": "ckac2016.jpg",
+			"type": "Web",
+			"teams": "成大合唱團、成大校友合唱團（南、北團）",
+			"time": "2016/05/21、2016/05/29",
+			"place": "成功大學成功廳、台北市中山堂",
+			"conductor": "張容碩、戴怡音、張曉生、羅學寰",
+			"piano": "江瑞齡、丁肇恩、林勁亨、曾奕齊",
+			"director": ""
+		},
+		{
+			"id": "p2015",
+			"title": "夏舞",
+			"subTitle": "成大校友合唱團 2015 年度音樂會",
+			"url": "http://bit.ly/ckac-2015",
+			"img": "ckac2015.jpg",
+			"type": "Web",
+			"teams": "成大校友合唱團",
+			"time": "2015/08/16",
+			"place": "台北誠品表演廳",
+			"conductor": "戴怡音",
+			"piano": "丁肇恩",
+			"director": "林中光"
+		},
+		{
+			"id": "p2014",
+			"title": "原味成現",
+			"subTitle": "成大校友合唱團 2014 年度音樂會",
+			"url": "http://bit.ly/ckac-2014",
+			"img": "ckac2014.jpg",
+			"type": "Web",
+			"teams": "成大校友合唱團、台北當代合唱團",
+			"time": "2014/09/04",
+			"place": "國家音樂廳",
+			"conductor": "戴怡音",
+			"piano": "丁肇恩",
+			"director": "林中光"
+		}
+	]
+}
