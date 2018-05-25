@@ -4,4 +4,6 @@
 function log(data){	
 	$("<p>").text(JSON.stringify(data)).appendTo("#log");
 }
-$("#clearlog").on("click", (e)=>{ $("#log").empty() });
+$("#clearlog").on("click", function(e){
+	$("#log").empty();
+});
