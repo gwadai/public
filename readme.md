@@ -14,6 +14,13 @@
 
 給 CKAC 網站使用的 favicon。路徑：
 
-	https://gwadai.github.io/public/images/music_favicon.png
+https://gwadai.github.io/public/images/music_favicon.png
+
+## 3. for jsFiddle
+
+給 jsFiddle 載入用的公用程式及樣式表。路徑：
+
+javascript: https://gwadai.github.io/public/jsFiddle/utility.js   
+css: https://gwadai.github.io/public/jsFiddle/utility.css
 
 

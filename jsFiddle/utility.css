@@ -1,0 +1,16 @@
+/*
+* 這個檔案是給 jsFiddle 載入用
+*/
+
+.main {
+    padding: 10px;
+}
+
+#log {
+    margin-top: 10px;
+}
+
+#log p {
+    margin: 0;
+    line-height: 22px;
+}
