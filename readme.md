@@ -23,4 +23,8 @@ https://gwadai.github.io/public/images/music_favicon.png
 javascript: https://gwadai.github.io/public/jsFiddle/utility.js   
 css: https://gwadai.github.io/public/jsFiddle/utility.css
 
+## 4. VS Code 常用備忘
 
+Visual Studio Code 的使用備忘
+
+https://gwadai.github.io/public/docs/vscode.md
