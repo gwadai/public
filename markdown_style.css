@@ -620,13 +620,13 @@ body {
 
 .vscode-body code {
     padding: 0;
-    padding-top: 0.2em;
-    padding-bottom: 0.2em;
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
     margin: 0;
     font-size: 85%;
-    background-color: #e8f2fc;
+    background-color: #eff7ff;
 	border-radius: 3px;
-	border: 1px solid #9fcefd;
+	/* border: 1px solid #9fcefd; */
 }
 
 .vscode-body code::before,
