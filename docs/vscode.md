@@ -50,6 +50,7 @@ Visual Studio Code 常用快捷鍵
 3. 跳到對應的括號處： ` Ctrl+Shift+\ ` 
 4. **在任意處新增游標：** ` Alt+Click ` 
 5. 快速移動游標（**_New_**)
+
 	> 移到單字**起始／結束**位置： ` Ctrl+ ← `／` Ctrl+ → `  
 	> 上述搭配 ` Shift ` 可選取  
 	> 刪除到單字開頭： ` Ctrl+Backspace `  
@@ -82,12 +83,13 @@ Visual Studio Code 常用快捷鍵
 
 ## 尋找與取代
 
-1. 尋找： ` Ctrl+F ` 
-2. 取代： ` Ctrl+H ` 
-3. 尋找下一個： ` F3 ` 
-4. 尋找前一個： ` Shift+F3 ` 
-5. 選取全部找到的結果： ` Alt+Enter ` 
-6. 切換搜尋條件  
+1. 尋找： ` Ctrl+F `  
+2. 取代： ` Ctrl+H `  
+3. 尋找下一個： ` F3 `  
+4. 尋找前一個： ` Shift+F3 `  
+5. 選取全部找到的結果： ` Alt+Enter `  
+6. 切換搜尋條件 
+
 	> 區分大小寫： ` Alt+C `  
 	> 使用規則運算式： ` Alt+R `  
 	> 限定符合整個單字： ` Alt+W ` 
