@@ -27,4 +27,4 @@ css: https://gwadai.github.io/public/jsFiddle/utility.css
 
 Visual Studio Code 的使用備忘
 
-https://gwadai.github.io/public/docs/vscode.md
+https://github.com/gwadai/public/blob/master/docs/vscode.md
