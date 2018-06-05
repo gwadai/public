@@ -1,0 +1,20 @@
+/* 不同年份外觀，第二個類別是演出的 id */
+.performance.p2018 {
+    background-color: #C2185B;
+}
+
+.performance.p2017 {
+    background-color: rgb(0, 114, 143);
+}
+
+.performance.p2016 {
+    background-color: #5D4037;
+}
+
+.performance.p2015 {
+    background-color: #4527A0;
+}
+
+.performance.p2014 {
+    background-color: rgb(16, 94, 57);
+}
