@@ -1,7 +1,7 @@
 [
 	{
 		"id": "p2018",
-		"bg-color": "#D81B60",
+		"bgColor": "#D81B60",
 		"title": "星樂交輝",
 		"subTitle": "成大校友合唱團 2018 年度音樂會",
 		"url": "即將推出",
@@ -16,7 +16,7 @@
 	},
 	{
 		"id": "p2017",
-		"bg-color": "#00728f",
+		"bgColor": "#00728f",
 		"title": "音樂聚",
 		"subTitle": "成大校友合唱團 2017 年度音樂會",
 		"url": "https://youtu.be/DgRKpWmvqI0",
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": "p2016",
-		"bg-color": "#5D4037",
+		"bgColor": "#5D4037",
 		"title": "成音飄揚六十載",
 		"subTitle": "2016 成大合唱團六十周年團慶音樂會",
 		"url": "http://bit.ly/ckc-60",
@@ -46,7 +46,7 @@
 	},
 	{
 		"id": "p2015",
-		"bg-color": "#4527A0",
+		"bgColor": "#4527A0",
 		"title": "夏舞",
 		"subTitle": "成大校友合唱團 2015 年度音樂會",
 		"url": "http://bit.ly/ckac-2015",
@@ -61,7 +61,7 @@
 	},
 	{
 		"id": "p2014",
-		"bg-color": "#105e39",
+		"bgColor": "#105e39",
 		"title": "原味成現",
 		"subTitle": "成大校友合唱團 2014 年度音樂會",
 		"url": "http://bit.ly/ckac-2014",
