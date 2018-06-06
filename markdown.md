@@ -297,7 +297,7 @@ Markdown 使用一種和連結很相似的語法來標記圖片，同樣也允�
 
 行內圖片的語法看起來像是：
 
-![CKAC](images/FB.png "Optional title")
+![CKAC](https://gwadai.github.io/public/images/music_favicon.png "Optional title")
 
 ### 缺點
 到目前為止， Markdown 還沒有辦法指定圖片的寬高，如果需要可以使用普通的 &lt;img> 標籤。
