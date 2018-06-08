@@ -134,6 +134,7 @@ Visual Studio Code 常用快捷鍵
 10. 檔案總管打開當前文件所在目錄： ` Ctrl+O ` 
 11. 無干擾模式－除編輯器外隱藏其他 UI： ` Ctrl+K Z `
 12. 搜索當前工作空間中所有 Markdown 文件的標題： ` Ctrl+T ` 
+13. 開啟之前開啟過的其他工作區： ` Ctrl+R ` 
 
 
 ## 檔案管理
@@ -171,7 +172,11 @@ Visual Studio Code 常用快捷鍵
 5. 大綱檢視－手動在檔案總管標題列按右鍵啟用。
 
 
+參考資料備份
+==============================
 
+* 初學者都該學會的 Git 版控技巧：Visual Studio Code 篇   
+   https://www.slideshare.net/WillHuangTW/visual-studio-code-git-for-beginners
 
 
 
