@@ -3,11 +3,13 @@
 <svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#21A43F;}
+	.st0{fill:#009588;}
 </style>
 <title>工作區域 1</title>
 <g>
-	<path class="st0" d="M24,11l-1-2V7l-2-2V4l-2-1l-1-1l-4-1h-3L9,2H7L5,4L2,6L1,8v2l-1,2l1,3l2,2l2-1h2l1,1h2v2l-2,1v1h7v-1l-2-1v-2
-		l3-1h1l2,1l2-1h2l1-2V11z M17,5h-3v7c0,1.7-1.3,3-3,3s-3-1.3-3-3s1.4-3,3-3c0.3,0,0.7,0.1,1,0.2V3h5V5z"/>
+	<g>
+		<path class="st0" d="M24,11l-1-2V7l-2-2V4l-2-1l-1-1l-4-1h-3L9,2H7L5,4L2,6L1,8v2l-1,2l1,3l2,2l2-1h2l1,1h2v2l-2,1v1h7v-1l-2-1v-2
+			l3-1h1l2,1l2-1h2l1-2V11z M17,5h-3v7c0,1.7-1.3,3-3,3s-3-1.3-3-3s1.4-3,3-3c0.3,0,0.7,0.1,1,0.2V3h5V5z"/>
+	</g>
 </g>
 </svg>
