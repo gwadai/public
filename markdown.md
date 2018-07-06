@@ -3,6 +3,8 @@
 這是一個 Markdown 文件的語法快速參考。可在 GitHub 使用的 Markdown 語法可參考：
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
+[如何連結到同一份文件](#連結到同一份文件)
+
 ## Markdown 是什麼
 
 Markdown 是一種輕量級標記式語言，它允許人們使用易讀易寫的純文字格式編寫文件，然後轉換成有效的 **HTML 文件**。John Gruber 在 2004 年創造了 Markdown 語言，其中最重要的設計是可讀性，也就是說這個語言應該要能直接在字面上被閱讀，而不用加上一些不利人類閱讀的 HTML 標記。（[維基百科](https://zh.wikipedia.org/wiki/Markdown)）
@@ -305,6 +307,29 @@ Markdown 使用一種和連結很相似的語法來標記圖片，同樣也允�
 （但實測不行？？）
 
 
+# 連結到同一份文件
+
+參考：https://stackoverflow.com/questions/6695439/how-to-link-to-a-named-anchor-in-multimarkdown
+
+## 方法一
+
+如果 markdown 文件中有標題，則可以直接在文件中鏈接它們。如：
+
+	## The Header
+
+這將生成一個隱式 id ` #the-header `（小寫並連字符相連）。連結寫法：
+
+	[連結顯示文字](#the-header)
+
+## 方法二
+
+自己設置錨點（可放置到任何地方）：
+
+	<a id="target"></a>
+
+則連結：
+
+	[連結顯示文字](#target)
 
 
 
