@@ -56,17 +56,27 @@
 			{
 				"url": "http://bit.ly/ckacfb",
 				"label": "CKAC 吃喝玩樂分享抬槓話匣子",
-				"note": "所有團員"
+				"note": "所有團員，不論現役或退役"
 			},
 			{
 				"url": "http://bit.ly/ckacfb-fans",
 				"label": "成大合唱團校友 CKAC 粉絲團",
-				"note": "對外"
+				"note": "對外公關"
 			},
 			{
 				"url": "http://bit.ly/ckacfb-core",
 				"label": "CKAC 管家園地",
-				"note": "幹部專用"
+				"note": "私密，幹部專用（舊）"
+			},
+			{
+				"url": "https://www.facebook.com/groups/429629914256929",
+				"label": "CKAC 2020 公演",
+				"note": "私密，2020 年公演有關人員"
+			},
+			{
+				"url": "https://www.facebook.com/groups/148367242782737",
+				"label": "2019 第七屆CKAC管家園地",
+				"note": "私密，幹部專用（新）"
 			}
 		]
 	},
