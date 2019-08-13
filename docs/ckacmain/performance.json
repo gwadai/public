@@ -1,5 +1,19 @@
 [
 	{
+		"id": "p2019",
+		"title": "愛的方程式",
+		"subTitle": "成大校友合唱團 2019 年度音樂會",
+		"url": "https://ckac2019.azurewebsites.net",
+		"img": "ckac2019.jpg",
+		"type": "Web",
+		"teams": "成大校友合唱團",
+		"time": "2019/05/19",
+		"place": "台北藝術大學音樂廳",
+		"conductor": "林坤輝",
+		"piano": "丁肇恩　肢體指導：黃端亭",
+		"director": "林中光"
+	},
+	{
 		"id": "p2018",
 		"title": "星樂交輝",
 		"subTitle": "成大校友合唱團 2018 年度音樂會",
