@@ -1,7 +1,7 @@
 /* 不同年份外觀，第二個類別是演出的 id */
 .performance.p2019 {
-	background-color: #fee8ef;
-	color: #e63e77;
+	background-color: #4caf50;
+	color: #e63e77 !important;
 }
 
 .performance.p2018 {
